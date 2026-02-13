@@ -1,0 +1,150 @@
+{
+    "version": 1,
+    "channels": [
+        {
+            "displayName": "BAGeL Radio",
+            "stream_url": "http://ais-sa3.cdnstream1.com/2606_128.mp3",
+            "ext_url": "http://ais-sa3.cdnstream1.com/2606_128.mp3"
+        },
+        {
+            "displayName": "Indie X FM",
+            "stream_url": "https://kathy.torontocast.com:2695/stream",
+            "ext_url": "https://kathy.torontocast.com:2695/stream"
+        },
+        {
+            "displayName": "The Independent FM",
+            "stream_url": "https://listen.radioking.com/radio/293701/stream/340084",
+            "ext_url": "https://listen.radioking.com/radio/293701/stream/340084"
+        },
+        {
+            "displayName": "METAL SHOP",
+            "stream_url": "http://daniel.torontocast.com:1670/stream",
+            "ext_url": "http://daniel.torontocast.com:1670/stream"
+        },
+        {
+            "displayName": "PureRock.US",
+            "stream_url": "http://rosetta.shoutca.st:8524/;",
+            "ext_url": "http://rosetta.shoutca.st:8524/;"
+        },
+        {
+            "displayName": "Atlantic Rock",
+            "stream_url": "https://cwilliam.radioca.st/stream",
+            "ext_url": "https://cwilliam.radioca.st/stream"
+        },
+        {
+            "displayName": "Crucial Velocity Radio",
+            "stream_url": "https://ais-sa2.cdnstream1.com/1369_128",
+            "ext_url": "https://ais-sa2.cdnstream1.com/1369_128"
+        },
+        {
+            "displayName": "Bob's SKA Radio",
+            "stream_url": "http://51.255.235.165:5528/stream",
+            "ext_url": "http://51.255.235.165:5528/stream"
+        },
+        {
+            "displayName": "ROCK ANTENNE Punkrock",
+            "stream_url": "http://s7-webradio.rockantenne.de/punkrock/stream/mp3",
+            "ext_url": "http://s7-webradio.rockantenne.de/punkrock/stream/mp3"
+        },
+        {
+            "displayName": "Absolut musicXL",
+            "stream_url": "https://edge60.live-sm.absolutradio.de/absolut-musicxl/stream/mp3",
+            "ext_url": "https://edge60.live-sm.absolutradio.de/absolut-musicxl/stream/mp3"
+        },
+        {
+            "displayName": "100hitz - Hip Hop",
+            "stream_url": "http://pureplay.cdnstream1.com/6042_128.mp3",
+            "ext_url": "http://pureplay.cdnstream1.com/6042_128.mp3"
+        },
+        {
+            "displayName": "SomaFM: Folk Forward",
+            "stream_url": "http://ice4.somafm.com/folkfwd-128-mp3",
+            "ext_url": "http://ice4.somafm.com/folkfwd-128-mp3"
+        },
+        {
+            "displayName": "American Roots",
+            "stream_url": "https://igor.torontocast.com:1945/stream",
+            "ext_url": "https://igor.torontocast.com:1945/stream"
+        },
+        {
+            "displayName": "Radio Banovina",
+            "stream_url": "http://stream1.radio-banovina.hr:9998/;",
+            "ext_url": "http://stream1.radio-banovina.hr:9998/;"
+        },
+        {
+            "displayName": "DylanRadio.com",
+            "stream_url": "http://900.cloudrad.io:8138/;",
+            "ext_url": "http://900.cloudrad.io:8138/;"
+        },
+        {
+            "displayName": "100hitz The Mix - 80s 90s & Today's Hits",
+            "stream_url": "http://pureplay.cdnstream1.com/6038_128.mp3",
+            "ext_url": "http://pureplay.cdnstream1.com/6038_128.mp3"
+        },
+        {
+            "displayName": "ON Gothic",
+            "stream_url": "http://0n-gothic.radionetz.de/0n-gothic.mp3",
+            "ext_url": "http://0n-gothic.radionetz.de/0n-gothic.mp3"
+        },
+        {
+            "displayName": "Rock Radio",
+            "stream_url": "http://radiostream.pl/tuba8-1.mp3",
+            "ext_url": "http://radiostream.pl/tuba8-1.mp3"
+        },
+        {
+            "displayName": "Radio RMF Lady Pank",
+            "stream_url": "http://rs202-krk.rmfstream.pl/rmf_lady_pank",
+            "ext_url": "http://rs202-krk.rmfstream.pl/rmf_lady_pank"
+        },
+        {
+            "displayName": "Radio RMF Lady Pank (US)",
+            "stream_url": "http://149.56.155.73:8016/;",
+            "ext_url": "http://149.56.155.73:8016/;"
+        },
+        {
+            "displayName": "DNBRadio",
+            "stream_url": "https://dnbradio.hardcoding.nl/dnbradio_main.mp3/;",
+            "ext_url": "https://dnbradio.hardcoding.nl/dnbradio_main.mp3/;"
+        },
+        {
+            "displayName": "1.FM Amsterdam Trance",
+            "stream_url": "http://strm112.1.fm/atr_mobile_mp3",
+            "ext_url": "http://strm112.1.fm/atr_mobile_mp3"
+        },
+        {
+            "displayName": "Spektra FM",
+            "stream_url": "http://stm1.emiteonline.com:8008/spektrafm",
+            "ext_url": "http://stm1.emiteonline.com:8008/spektrafm"
+        },
+        {
+            "displayName": "Banquise FM",
+            "stream_url": "http://ecoute.banquisefm.com/listen.mp3",
+            "ext_url": "http://ecoute.banquisefm.com/listen.mp3"
+        },
+        {
+            "displayName": "Dubstep.fm",
+            "stream_url": "http://shout.dubstep.fm/256mp3",
+            "ext_url": "http://shout.dubstep.fm/256mp3"
+        },
+        {
+            "displayName": "Real Hardcore Radio",
+            "stream_url": "http://shoutcast2.hardcoreradio.nl/",
+            "ext_url": "http://shoutcast2.hardcoreradio.nl/"
+        },
+        {
+            "displayName": "Dub Terrain Radio",
+            "stream_url": "http://ic2255.c471.fast-serv.com/listen",
+            "ext_url": "http://ic2255.c471.fast-serv.com/listen"
+        },
+        {
+            "displayName": "1.FM Reggae",
+            "stream_url": "http://strm112.1.fm/reggae_mobile_mp3",
+            "ext_url": "http://strm112.1.fm/reggae_mobile_mp3"
+        },
+        {
+            "displayName": "100% Workout - Radios 100FM",
+            "stream_url": "http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio",
+            "ext_url": "http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio"
+        }
+    ]
+}

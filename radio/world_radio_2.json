@@ -1,0 +1,205 @@
+{
+    "version": 1,
+    "channels": [
+        {
+            "displayName": "TruckersFM",
+            "stream_url": "https://radio.truckers.fm/",
+            "ext_url": "https://radio.truckers.fm/"
+        },
+        {
+            "displayName": "Simulator Radio",
+            "stream_url": "http://stream.simulatorradio.com:8002/stream.mp3",
+            "ext_url": "http://stream.simulatorradio.com:8002/stream.mp3"
+        },
+        {
+            "displayName": "TruckSimFM",
+            "stream_url": "http://radio.trucksim.fm:8000/stream",
+            "ext_url": "http://radio.trucksim.fm:8000/stream"
+        },
+        {
+            "displayName": "City",
+            "stream_url": "http://stream.radioreklama.bg/city64",
+            "ext_url": "http://stream.radioreklama.bg/city64"
+        },
+        {
+            "displayName": "Radio Beat",
+            "stream_url": "http://icecast5.play.cz/radiobeat128.mp3",
+            "ext_url": "http://icecast5.play.cz/radiobeat128.mp3"
+        },
+        {
+            "displayName": "Country Radio",
+            "stream_url": "http://icecast2.play.cz:8000/country64.mp3",
+            "ext_url": "http://icecast2.play.cz:8000/country64.mp3"
+        },
+        {
+            "displayName": "Skyrock FR",
+            "stream_url": "http://icecast.skyrock.net/s/natio_mp3_128k",
+            "ext_url": "http://icecast.skyrock.net/s/natio_mp3_128k"
+        },
+        {
+            "displayName": "House Heads UK",
+            "stream_url": "http://s36.myradiostream.com:13028/;listen.mp3",
+            "ext_url": "http://s36.myradiostream.com:13028/;listen.mp3"
+        },
+        {
+            "displayName": "Radio 538",
+            "stream_url": "http://20073.live.streamtheworld.com/RADIO538.mp3",
+            "ext_url": "http://20073.live.streamtheworld.com/RADIO538.mp3"
+        },
+        {
+            "displayName": "PR Radio Katowice",
+            "stream_url": "http://stream4.nadaje.com:9212/radiokatowice",
+            "ext_url": "http://stream4.nadaje.com:9212/radiokatowice"
+        },
+        {
+            "displayName": "Roxy FM",
+            "stream_url": "http://mainstream.radioagora.pl:80/tuba8-1.mp3",
+            "ext_url": "http://mainstream.radioagora.pl:80/tuba8-1.mp3"
+        },
+        {
+            "displayName": "Złote Przeboje",
+            "stream_url": "http://mainstream.radioagora.pl:80/tuba9-1.mp3",
+            "ext_url": "http://mainstream.radioagora.pl:80/tuba9-1.mp3"
+        },
+        {
+            "displayName": "RMF FM",
+            "stream_url": "http://217.74.72.11:8000/rmf_fm",
+            "ext_url": "http://217.74.72.11:8000/rmf_fm"
+        },
+        {
+            "displayName": "Radio RMF MAXXX",
+            "stream_url": "http://217.74.72.10:8000/rmf_maxxx",
+            "ext_url": "http://217.74.72.10:8000/rmf_maxxx"
+        },
+        {
+            "displayName": "RMF Classic",
+            "stream_url": "http://217.74.72.10:8000/rmf_classic",
+            "ext_url": "http://217.74.72.10:8000/rmf_classic"
+        },
+        {
+            "displayName": "DR P8 JAZZ",
+            "stream_url": "http://live-icy.gss.dr.dk/A/A22H.mp3",
+            "ext_url": "http://live-icy.gss.dr.dk/A/A22H.mp3"
+        },
+        {
+            "displayName": "Radio RMF - Alternatywa",
+            "stream_url": "http://217.74.72.11:8000/rmf_alternatywa",
+            "ext_url": "http://217.74.72.11:8000/rmf_alternatywa"
+        },
+        {
+            "displayName": "Retro Radio",
+            "stream_url": "http://streammp3.retro-radio.dk/retro-mp3",
+            "ext_url": "http://streammp3.retro-radio.dk/retro-mp3"
+        },
+        {
+            "displayName": "Austrian Rock Radio",
+            "stream_url": "http://live.antenne.at/arr",
+            "ext_url": "http://live.antenne.at/arr"
+        },
+        {
+            "displayName": "Radio Proton",
+            "stream_url": "http://www.radioproton.at:8000/proton",
+            "ext_url": "http://www.radioproton.at:8000/proton"
+        },
+        {
+            "displayName": "KroneHit 105.8",
+            "stream_url": "http://onair-ha1.krone.at/kronehit-hp.mp3",
+            "ext_url": "http://onair-ha1.krone.at/kronehit-hp.mp3"
+        },
+        {
+            "displayName": "Radio Szczecin",
+            "stream_url": "http://stream4.nadaje.com:11986/prs",
+            "ext_url": "http://stream4.nadaje.com:11986/prs"
+        },
+        {
+            "displayName": "Radio Parada",
+            "stream_url": "http://stream4.nadaje.com:15274/live",
+            "ext_url": "http://stream4.nadaje.com:15274/live"
+        },
+        {
+            "displayName": "Radio Noname",
+            "stream_url": "http://188.165.195.176:8058/stream/",
+            "ext_url": "http://188.165.195.176:8058/stream/"
+        },
+        {
+            "displayName": "Radio Orbit",
+            "stream_url": "http://s1.slotex.pl:7390/stream/1/",
+            "ext_url": "http://s1.slotex.pl:7390/stream/1/"
+        },
+        {
+            "displayName": "Radio Szczecin Extra",
+            "stream_url": "http://stream3.nadaje.com:8200/szczecinfm?hash=1487522603361.mp3",
+            "ext_url": "http://stream3.nadaje.com:8200/szczecinfm?hash=1487522603361.mp3"
+        },
+        {
+            "displayName": "Radio Forever 80s",
+            "stream_url": "http://sirius.shoutca.st:8761/1",
+            "ext_url": "http://sirius.shoutca.st:8761/1"
+        },
+        {
+            "displayName": "Radio MRS",
+            "stream_url": "http://play.radiomrs.com:7494/;stream.nsv",
+            "ext_url": "http://play.radiomrs.com:7494/;stream.nsv"
+        },
+        {
+            "displayName": "Radio Baobab",
+            "stream_url": "http://stream.radiobaobab.pl:8000/radiobaobab.mp3",
+            "ext_url": "http://stream.radiobaobab.pl:8000/radiobaobab.mp3"
+        },
+        {
+            "displayName": "Metal Live Radio",
+            "stream_url": "http://51.255.8.139:8738/stream",
+            "ext_url": "http://51.255.8.139:8738/stream"
+        },
+        {
+            "displayName": "Radio PIK",
+            "stream_url": "http://stream.radiopik.pl:9004/",
+            "ext_url": "http://stream.radiopik.pl:9004/"
+        },
+        {
+            "displayName": "Fun Rádio",
+            "stream_url": "http://stream.funradio.sk:8000/fun128.mp3",
+            "ext_url": "http://stream.funradio.sk:8000/fun128.mp3"
+        },
+        {
+            "displayName": "Rádio Viva",
+            "stream_url": "http://stream.sepia.sk:8000/viva128.mp3",
+            "ext_url": "http://stream.sepia.sk:8000/viva128.mp3"
+        },
+        {
+            "displayName": "Radio TDI",
+            "stream_url": "http://streaming.tdiradio.com/tdiradio.mp3",
+            "ext_url": "http://streaming.tdiradio.com/tdiradio.mp3"
+        },
+        {
+            "displayName": "Jazz London Radio",
+            "stream_url": "http://radio.canstream.co.uk:8075/live.mp3",
+            "ext_url": "http://radio.canstream.co.uk:8075/live.mp3"
+        },
+        {
+            "displayName": "FFH Rock Frankfurt",
+            "stream_url": "http://mp3.ffh.de/ffhchannels/hqrock.mp3",
+            "ext_url": "http://mp3.ffh.de/ffhchannels/hqrock.mp3"
+        },
+        {
+            "displayName": "Smooth Radio",
+            "stream_url": "http://media-ice.musicradio.com/SmoothLondonMP3",
+            "ext_url": "http://media-ice.musicradio.com/SmoothLondonMP3"
+        },
+        {
+            "displayName": "24-7 Rock 'N' Roll",
+            "stream_url": "http://24-7nicheradio.com:8130/stream",
+            "ext_url": "http://24-7nicheradio.com:8130/stream"
+        },
+        {
+            "displayName": "Direct FM Metz",
+            "stream_url": "http://directfm.ice.infomaniak.ch/directfm-128.mp3",
+            "ext_url": "http://directfm.ice.infomaniak.ch/directfm-128.mp3"
+        },
+        {
+            "displayName": "Radio Caroline",
+            "stream_url": "http://78.129.202.200:8000/;",
+            "ext_url": "http://78.129.202.200:8000/;"
+        }
+    ]
+}

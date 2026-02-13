@@ -1,0 +1,190 @@
+{
+    "version": 1,
+    "channels": [
+        {
+            "displayName": "Rock Zone Prague",
+            "stream_url": "http://icecast5.play.cz/rockzone128.mp3",
+            "ext_url": "http://icecast5.play.cz/rockzone128.mp3"
+        },
+        {
+            "displayName": "LBC",
+            "stream_url": "http://ice-the.musicradio.com:80/LBC973MP3Low",
+            "ext_url": "http://ice-the.musicradio.com:80/LBC973MP3Low"
+        },
+        {
+            "displayName": "1.FM - Absolutely Country Hits",
+            "stream_url": "http://205.164.62.22:7800",
+            "ext_url": "http://205.164.62.22:7800"
+        },
+        {
+            "displayName": "1.FM - Classic Country",
+            "stream_url": "http://205.164.62.22:7806",
+            "ext_url": "http://205.164.62.22:7806"
+        },
+        {
+            "displayName": "1.FM - Country One",
+            "stream_url": "http://strm112.1.fm/country_mobile_mp3",
+            "ext_url": "http://strm112.1.fm/country_mobile_mp3"
+        },
+        {
+            "displayName": "181.FM - 90's Country",
+            "stream_url": "http://relay.181.fm:8050",
+            "ext_url": "http://relay.181.fm:8050"
+        },
+        {
+            "displayName": "181.FM - Highway 181",
+            "stream_url": "http://relay.181.fm:8018",
+            "ext_url": "http://relay.181.fm:8018"
+        },
+        {
+            "displayName": "181.FM - Kickin' Country",
+            "stream_url": "http://relay.181.fm:8130",
+            "ext_url": "http://relay.181.fm:8130"
+        },
+        {
+            "displayName": "181.FM - Real Country",
+            "stream_url": "http://relay.181.fm:8034",
+            "ext_url": "http://relay.181.fm:8034"
+        },
+        {
+            "displayName": "181.FM - The FrontPorch",
+            "stream_url": "http://relay.181.fm:8016",
+            "ext_url": "http://relay.181.fm:8016"
+        },
+        {
+            "displayName": "3FM Serious Radio",
+            "stream_url": "http://icecast.omroep.nl:80/3fm-bb-mp3",
+            "ext_url": "http://icecast.omroep.nl:80/3fm-bb-mp3"
+        },
+        {
+            "displayName": "Rádio Impuls",
+            "stream_url": "http://icecast5.play.cz:8000/impuls128.mp3",
+            "ext_url": "http://icecast5.play.cz:8000/impuls128.mp3"
+        },
+        {
+            "displayName": "Kiss Jižení Čechy",
+            "stream_url": "http://icecast8.play.cz/kisspublikum128.mp3",
+            "ext_url": "http://icecast8.play.cz/kisspublikum128.mp3"
+        },
+        {
+            "displayName": "Hitradio Faktor",
+            "stream_url": "http://ice.abradio.cz/faktor128.mp3",
+            "ext_url": "http://ice.abradio.cz/faktor128.mp3"
+        },
+        {
+            "displayName": "Fajn Radio",
+            "stream_url": "http://ice.abradio.cz/fajn128.mp3",
+            "ext_url": "http://ice.abradio.cz/fajn128.mp3"
+        },
+        {
+            "displayName": "ČR Radiožurnál",
+            "stream_url": "http://icecast8.play.cz/cro1-128.mp3",
+            "ext_url": "http://icecast8.play.cz/cro1-128.mp3"
+        },
+        {
+            "displayName": "DR 1",
+            "stream_url": "http://live-icy.gss.dr.dk:8000/A/A03H.mp3",
+            "ext_url": "http://live-icy.gss.dr.dk:8000/A/A03H.mp3"
+        },
+        {
+            "displayName": "DR 2 Classic",
+            "stream_url": "http://live-icy.gss.dr.dk:8000/A/A04H.mp3",
+            "ext_url": "http://live-icy.gss.dr.dk:8000/A/A04H.mp3"
+        },
+        {
+            "displayName": "DR 3",
+            "stream_url": "http://live-icy.gss.dr.dk:8000/A/A05H.mp3",
+            "ext_url": "http://live-icy.gss.dr.dk:8000/A/A05H.mp3"
+        },
+        {
+            "displayName": "DR 4 Fyn",
+            "stream_url": "http://live-icy.gss.dr.dk:8000/A/A07H.mp3",
+            "ext_url": "http://live-icy.gss.dr.dk:8000/A/A07H.mp3"
+        },
+        {
+            "displayName": "DR 5",
+            "stream_url": "http://live-icy.gss.dr.dk:8000/A/A25H.mp3",
+            "ext_url": "http://live-icy.gss.dr.dk:8000/A/A25H.mp3"
+        },
+        {
+            "displayName": "DR 6 Beat",
+            "stream_url": "http://live-icy.gss.dr.dk:8000/A/A29H.mp3",
+            "ext_url": "http://live-icy.gss.dr.dk:8000/A/A29H.mp3"
+        },
+        {
+            "displayName": "Radio Rock",
+            "stream_url": "http://edge-bauerno-03-gos2.sharp-stream.com/radiorock_no_mp3?",
+            "ext_url": "http://edge-bauerno-03-gos2.sharp-stream.com/radiorock_no_mp3?"
+        },
+        {
+            "displayName": "The Voice NO",
+            "stream_url": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+            "ext_url": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3"
+        },
+        {
+            "displayName": "Radio Bloodstream",
+            "stream_url": "http://uk1.internet-radio.com:8294/stream",
+            "ext_url": "http://uk1.internet-radio.com:8294/stream"
+        },
+        {
+            "displayName": "Radio LRB",
+            "stream_url": "http://zeus.lrb.lu:8000/lrb.live",
+            "ext_url": "http://zeus.lrb.lu:8000/lrb.live"
+        },
+        {
+            "displayName": "Radio Diddeleng",
+            "stream_url": "http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3",
+            "ext_url": "http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3"
+        },
+        {
+            "displayName": "BitJam Radio",
+            "stream_url": "http://marmalade.scenesat.com:8086/bitjam.mp3",
+            "ext_url": "http://marmalade.scenesat.com:8086/bitjam.mp3"
+        },
+        {
+            "displayName": "Country Rocks Radio",
+            "stream_url": "http://stream.dbmedia.se/crrMP3",
+            "ext_url": "http://stream.dbmedia.se/crrMP3"
+        },
+        {
+            "displayName": "ERR Raadio 2",
+            "stream_url": "http://icecast.err.ee/raadio2.mp3",
+            "ext_url": "http://icecast.err.ee/raadio2.mp3"
+        },
+        {
+            "displayName": "Raadio 4",
+            "stream_url": "http://icecast.err.ee/raadio4madal.mp3",
+            "ext_url": "http://icecast.err.ee/raadio4madal.mp3"
+        },
+        {
+            "displayName": "XO FM",
+            "stream_url": "https://live.xo.fm/xofm128",
+            "ext_url": "https://live.xo.fm/xofm128"
+        },
+        {
+            "displayName": "Radijo stotis Pukas",
+            "stream_url": "http://82.135.234.195:8000/pukas.mp3",
+            "ext_url": "http://82.135.234.195:8000/pukas.mp3"
+        },
+        {
+            "displayName": "DrChill",
+            "stream_url": "http://media-sov.musicradio.com/ChillMP3",
+            "ext_url": "http://media-sov.musicradio.com/ChillMP3"
+        },
+        {
+            "displayName": "Easy FM",
+            "stream_url": "http://netradio.ziniur.lt/easyfm.mp3",
+            "ext_url": "http://netradio.ziniur.lt/easyfm.mp3"
+        },
+        {
+            "displayName": "Mano FM",
+            "stream_url": "http://stream.manofm.lt/listen?",
+            "ext_url": "http://stream.manofm.lt/listen?"
+        },
+        {
+            "displayName": "Radio Hear",
+            "stream_url": "http://hear.fi:8000/hear.mp3",
+            "ext_url": "http://hear.fi:8000/hear.mp3"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+battle.player.volumeup: Volume up
+battle.player.volumedown: Volume down
+battle.player.stop: Radio player stopped
+battle.player.loading: Loading...
+battle.tips.control1: Enable NETradio — [{toggleRadio}]
+battle.tips.control2: Switch NETradio channels in battle using [{nextChannel}] and [{previosChannel}] keys
+battle.tips.control3: Adjust the volume in battle to suit you with the keys [{volumeDown}] and [{volumeUp}]
+error.workingDir: Error. Mod files not found!
+error.localRadioUrl: Error. Something is blocking the net_radio_player.exe file from accessing the Internet.
+error.cache: Error. Failed to get the broadcast link!
+error.netRadioUrl: Error. NETradio radio is unavailable!
+error.streamTags: Error. No connection to NETradio. Broadcasting will be restored soon!
+modslist.name: NETradio
+modslist.description: Listen to the radio NETradio directly in the game client
+ui.waiting.grabbingData: Grabbing data
+ui.title: NETradio
+ui.closeButton: CLOSE
+ui.settings.title: Other settings
+ui.settings.label.saveVolume: Save volume
+ui.settings.label.saveChannel: Save selected channel
+ui.settings.label.muteOnVoip: Use VOIP settings
+ui.settings.label.autoPlay: Auto-play on startup
+ui.settings.label.showBattleTips: Show battle tips
+ui.settings.label.muteOnMinimize: Mute when minimized
+ui.settings.tooltip.saveVolume: {HEADER}Save volume{/HEADER}{BODY}The volume will remain at the same level next time you turn it on{/BODY}
+ui.settings.tooltip.saveChannel: {HEADER}Save selected channel{/HEADER}{BODY}The last channel you selected will be played the next time{/BODY}
+ui.settings.tooltip.muteOnVoip: {HEADER}Use VOIP settings{/HEADER}{BODY}While using in-game communication, the radio will be muted. The level of muting depends on the "Ambience level during chat" setting in the game client{/BODY}
+ui.settings.tooltip.autoPlay: {HEADER}Auto-play on startup{/HEADER}{BODY}The radio will automatically turn on when the client starts{/BODY}
+ui.settings.tooltip.showBattleTips: {HEADER}Show battle tips{/HEADER}{BODY}Show control keys at the start of battle{/BODY}
+ui.settings.tooltip.muteOnMinimize: {HEADER}Mute when minimized{/HEADER}{BODY}Mute radio when the game client is minimized{/BODY}
+ui.hotkeys.title: Hotkeys
+ui.hotkeys.defaultLink: Default settings
+ui.hotkeys.cmdDefault: Default
+ui.hotkeys.cmdClean: Clean
+ui.hotkeys.toggleRadio: Toggle radio
+ui.hotkeys.volumeUp: Volume up
+ui.hotkeys.volumeDown: Volume down
+ui.hotkeys.nextChannel: Next channel
+ui.hotkeys.previosChannel: Previous channel

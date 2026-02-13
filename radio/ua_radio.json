@@ -1,0 +1,195 @@
+{
+    "version": 1,
+    "channels": [
+        {
+            "displayName": "RadioROKS",
+            "stream_url": "https://online.radioroks.ua/RadioROKS",
+            "ext_url": "https://online.radioroks.ua/RadioROKS"
+        },
+        {
+            "displayName": "RadioROKS Ukrainian",
+            "stream_url": "https://online.radioroks.ua/RadioROKS_Ukr",
+            "ext_url": "https://online.radioroks.ua/RadioROKS_Ukr"
+        },
+        {
+            "displayName": "RadioROKS NewRock",
+            "stream_url": "https://online.radioroks.ua/RadioROKS_NewRock",
+            "ext_url": "https://online.radioroks.ua/RadioROKS_NewRock"
+        },
+        {
+            "displayName": "RadioROKS ClassicRock",
+            "stream_url": "https://online.radioroks.ua/RadioROKS_ClassicRock",
+            "ext_url": "https://online.radioroks.ua/RadioROKS_ClassicRock"
+        },
+        {
+            "displayName": "RadioROKS HardnHeavy",
+            "stream_url": "https://online.radioroks.ua/RadioROKS_HardnHeavy",
+            "ext_url": "https://online.radioroks.ua/RadioROKS_HardnHeavy"
+        },
+        {
+            "displayName": "RadioROKS Ballads",
+            "stream_url": "https://online.radioroks.ua/RadioROKS_Ballads",
+            "ext_url": "https://online.radioroks.ua/RadioROKS_Ballads"
+        },
+        {
+            "displayName": "HitFM",
+            "stream_url": "https://online.hitfm.ua/HitFM",
+            "ext_url": "https://online.hitfm.ua/HitFM"
+        },
+        {
+            "displayName": "HitFM Ukrainian",
+            "stream_url": "https://online.hitfm.ua/HitFM_Ukr",
+            "ext_url": "https://online.hitfm.ua/HitFM_Ukr"
+        },
+        {
+            "displayName": "HitFM Best",
+            "stream_url": "https://online.hitfm.ua/HitFM_Best",
+            "ext_url": "https://online.hitfm.ua/HitFM_Best"
+        },
+        {
+            "displayName": "HitFM Top",
+            "stream_url": "https://online.hitfm.ua/HitFM_Top",
+            "ext_url": "https://online.hitfm.ua/HitFM_Top"
+        },
+        {
+            "displayName": "KissFM",
+            "stream_url": "https://online.kissfm.ua/KissFM",
+            "ext_url": "https://online.kissfm.ua/KissFM"
+        },
+        {
+            "displayName": "KissFM Ukrainian",
+            "stream_url": "https://online.kissfm.ua/KissFM_Ukr",
+            "ext_url": "https://online.kissfm.ua/KissFM_Ukr"
+        },
+        {
+            "displayName": "KissFM Deep",
+            "stream_url": "https://online.kissfm.ua/KissFM_Deep",
+            "ext_url": "https://online.kissfm.ua/KissFM_Deep"
+        },
+        {
+            "displayName": "KissFM Digital",
+            "stream_url": "https://online.kissfm.ua/KissFM_Digital",
+            "ext_url": "https://online.kissfm.ua/KissFM_Digital"
+        },
+        {
+            "displayName": "NasheRadio",
+            "stream_url": "https://online.nasheradio.ua/NasheRadio",
+            "ext_url": "https://online.nasheradio.ua/NasheRadio"
+        },
+        {
+            "displayName": "NasheRadio Ukrainian",
+            "stream_url": "https://online.nasheradio.ua/NasheRadio_Ukr",
+            "ext_url": "https://online.nasheradio.ua/NasheRadio_Ukr"
+        },
+        {
+            "displayName": "MelodiaFM",
+            "stream_url": "https://online.melodiafm.ua/MelodiaFM",
+            "ext_url": "https://online.melodiafm.ua/MelodiaFM"
+        },
+        {
+            "displayName": "MelodiaFM International",
+            "stream_url": "https://online.melodiafm.ua/MelodiaFM_Int",
+            "ext_url": "https://online.melodiafm.ua/MelodiaFM_Int"
+        },
+        {
+            "displayName": "MelodiaFM Disco",
+            "stream_url": "https://online.melodiafm.ua/MelodiaFM_Disco",
+            "ext_url": "https://online.melodiafm.ua/MelodiaFM_Disco"
+        },
+        {
+            "displayName": "MelodiaFM Romantic",
+            "stream_url": "https://online.melodiafm.ua/MelodiaFM_Romantic",
+            "ext_url": "https://online.melodiafm.ua/MelodiaFM_Romantic"
+        },
+        {
+            "displayName": "RadioRelax",
+            "stream_url": "https://online.radiorelax.ua/RadioRelax",
+            "ext_url": "https://online.radiorelax.ua/RadioRelax"
+        },
+        {
+            "displayName": "RadioRelax Ukrainian",
+            "stream_url": "https://online.radiorelax.ua/RadioRelax_Ukr",
+            "ext_url": "https://online.radiorelax.ua/RadioRelax_Ukr"
+        },
+        {
+            "displayName": "RadioRelax International",
+            "stream_url": "https://online.radiorelax.ua/RadioRelax_Int",
+            "ext_url": "https://online.radiorelax.ua/RadioRelax_Int"
+        },
+        {
+            "displayName": "RadioRelax Cafe",
+            "stream_url": "https://online.radiorelax.ua/RadioRelax_Cafe",
+            "ext_url": "https://online.radiorelax.ua/RadioRelax_Cafe"
+        },
+        {
+            "displayName": "RadioRelax Instrumental",
+            "stream_url": "https://online.radiorelax.ua/RadioRelax_Instrumental",
+            "ext_url": "https://online.radiorelax.ua/RadioRelax_Instrumental"
+        },
+        {
+            "displayName": "RadioJazz",
+            "stream_url": "https://online.radiojazz.ua/RadioJazz",
+            "ext_url": "https://online.radiojazz.ua/RadioJazz"
+        },
+        {
+            "displayName": "RadioJazz Ukrainian",
+            "stream_url": "https://online.radiojazz.ua/RadioJazz_Ukr",
+            "ext_url": "https://online.radiojazz.ua/RadioJazz_Ukr"
+        },
+        {
+            "displayName": "RadioJazz Gold",
+            "stream_url": "https://online.radiojazz.ua/RadioJazz_Gold",
+            "ext_url": "https://online.radiojazz.ua/RadioJazz_Gold"
+        },
+        {
+            "displayName": "RadioJazz Light",
+            "stream_url": "https://online.radiojazz.ua/RadioJazz_Light",
+            "ext_url": "https://online.radiojazz.ua/RadioJazz_Light"
+        },
+        {
+            "displayName": "RadioJazz Cover",
+            "stream_url": "https://online.radiojazz.ua/RadioJazz_Cover",
+            "ext_url": "https://online.radiojazz.ua/RadioJazz_Cover"
+        },
+        {
+            "displayName": "RadioJazz Groove",
+            "stream_url": "https://online.radiojazz.ua/RadioJazz_Groove",
+            "ext_url": "https://online.radiojazz.ua/RadioJazz_Groove"
+        },
+        {
+            "displayName": "GuliayRadio",
+            "stream_url": "https://online.radioplayer.ua/GuliayRadio",
+            "ext_url": "https://online.radioplayer.ua/GuliayRadio"
+        },
+        {
+            "displayName": "RadioGold",
+            "stream_url": "https://online.radioplayer.ua/RadioGold",
+            "ext_url": "https://online.radioplayer.ua/RadioGold"
+        },
+        {
+            "displayName": "FlashRadio",
+            "stream_url": "https://online.radioplayer.ua/FlashRadio",
+            "ext_url": "https://online.radioplayer.ua/FlashRadio"
+        },
+        {
+            "displayName": "RadioIndieUA",
+            "stream_url": "https://online.radioplayer.ua/RadioIndieUA",
+            "ext_url": "https://online.radioplayer.ua/RadioIndieUA"
+        },
+        {
+            "displayName": "Hromadske Radio",
+            "stream_url": "http://91.218.212.67:8000/stream",
+            "ext_url": "http://91.218.212.67:8000/stream"
+        },
+        {
+            "displayName": "Lux FM",
+            "stream_url": "http://icecast.luxnet.ua/lux",
+            "ext_url": "http://icecast.luxnet.ua/lux"
+        },
+        {
+            "displayName": "Radio NOSTALGIE",
+            "stream_url": "http://icecast.luxnet.ua/nostalgi",
+            "ext_url": "http://icecast.luxnet.ua/nostalgi"
+        }
+    ]
+}

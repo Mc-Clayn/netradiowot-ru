@@ -1,0 +1,105 @@
+{
+    "version": 1,
+    "channels": [
+        {
+            "displayName": "netradio.by",
+            "stream_url": "http://sv.netradio.by:8061/128",
+            "ext_url": "https://netradio.by/wot"
+        },
+        {
+            "displayName": "Радио Мелодия (СПБ)",
+            "stream_url": "http://stream128.melodiafm.spb.ru:8000/melodia128",
+            "ext_url": "http://stream128.melodiafm.spb.ru:8000/melodia128"
+        },
+        {
+            "displayName": "Радио Золотой Век",
+            "stream_url": "http://setmedia.ru:8000/high",
+            "ext_url": "http://setmedia.ru:8000/high"
+        },
+        {
+            "displayName": "Радио Шоколад",
+            "stream_url": "https://choco.hostingradio.ru:10010/fm",
+            "ext_url": "https://choco.hostingradio.ru:10010/fm"
+        },
+        {
+            "displayName": "Радио Русский Рок",
+            "stream_url": "https://rock.amgradio.ru/RusRock",
+            "ext_url": "https://rock.amgradio.ru/RusRock"
+        },
+        {
+            "displayName": "Радио Маяк",
+            "stream_url": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_aac_64kbps",
+            "ext_url": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_aac_64kbps"
+        },
+        {
+            "displayName": "Радио 1945",
+            "stream_url": "http://78.46.66.184:1945/128",
+            "ext_url": "http://78.46.66.184:1945/128"
+        },
+        {
+            "displayName": "Радио Ретро Хит",
+            "stream_url": "http://air.volna.top/Retro",
+            "ext_url": "http://air.volna.top/Retro"
+        },
+        {
+            "displayName": "Радио Лучшие Песни",
+            "stream_url": "http://85.114.140.64:8000/666",
+            "ext_url": "http://85.114.140.64:8000/666"
+        },
+        {
+            "displayName": "НостальгияФМ",
+            "stream_url": "http://nostalgiafm.hostingradio.ru:8000/nostalgiafm.mp3",
+            "ext_url": "http://nostalgiafm.hostingradio.ru:8000/nostalgiafm.mp3"
+        },
+        {
+            "displayName": "Хайп ФМ",
+            "stream_url": "http://air.volna.top/HypeFM",
+            "ext_url": "http://air.volna.top/HypeFM"
+        },
+        {
+            "displayName": "Megapolis FM",
+            "stream_url": "http://109.239.129.43:8010/megapolis-48.aac",
+            "ext_url": "http://109.239.129.43:8010/megapolis-48.aac"
+        },
+        {
+            "displayName": "РетроФМ",
+            "stream_url": "http://hls-01-retro.emgsound.ru/12/128/playlist.m3u8",
+            "ext_url": "http://hls-01-retro.emgsound.ru/12/128/playlist.m3u8"
+        },
+        {
+            "displayName": "Русское Радио",
+            "stream_url": "https://rusradio.hostingradio.ru/rusradio128.mp3",
+            "ext_url": "https://rusradio.hostingradio.ru/rusradio128.mp3"
+        },
+        {
+            "displayName": "Вести ФМ",
+            "stream_url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps",
+            "ext_url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps"
+        },
+        {
+            "displayName": "Marusya FM",
+            "stream_url": "https://spb5.radio-holding.ru/marusya_default",
+            "ext_url": "https://spb5.radio-holding.ru/marusya_default"
+        },
+        {
+            "displayName": "Дорожное Радио",
+            "stream_url": "https://dorognoe.hostingradio.ru:8000/dorognoe",
+            "ext_url": "https://dorognoe.hostingradio.ru:8000/dorognoe"
+        },
+        {
+            "displayName": "Novoe Radio",
+            "stream_url": "http://icecast.newradio.cdnvideo.ru/newradio3",
+            "ext_url": "http://icecast.newradio.cdnvideo.ru/newradio3"
+        },
+        {
+            "displayName": "Авторадио",
+            "stream_url": "https://pub0301.101.ru:8443/stream/air/mp3/256/100",
+            "ext_url": "https://pub0301.101.ru:8443/stream/air/mp3/256/100"
+        },
+        {
+            "displayName": "Европа Плюс",
+            "stream_url": "http://ep128.hostingradio.ru:8030/ep128",
+            "ext_url": "http://ep128.hostingradio.ru:8030/ep128"
+        }
+    ]
+}

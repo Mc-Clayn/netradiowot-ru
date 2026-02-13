@@ -1,0 +1,39 @@
+battle.player.volumeup: Громкость увеличена
+battle.player.volumedown: Громкость уменьшена
+battle.player.stop: Радио-плеер остановлен
+battle.player.loading: Загрузка...
+battle.tips.control1: Включить NETradio - [{toggleRadio}]
+battle.tips.control2: Переключайте каналы NETradio в бою клавишами [{nextChannel}] и [{previosChannel}]
+battle.tips.control3: Настраивайте удобную для вас громкость в бою клавишами [{volumeDown}] и [{volumeUp}]
+error.workingDir: Ошибка. Файлы мода не найдены!
+error.localRadioUrl: Ошибка. Чтото блокирует файлу net_radio_player.exe доступ к сети интернет.
+error.cache: Ошибка. Не удалось получить ссылку на вещание!
+error.netRadioUrl: Ошибка. Радио NETradio недоступно!
+error.streamTags: Ошибка. Нет соединения с NETradio. Вещание будет восстановлено в ближайшее время!
+modslist.name: NETradio
+modslist.description: Слушайте радио NETradio прямо в клиенте игры
+ui.waiting.grabbingData: Получение данных
+ui.title: NETradio
+ui.closeButton: ЗАКРЫТЬ
+ui.settings.title: Другие настройки
+ui.settings.label.saveVolume: Запомнить громкость
+ui.settings.label.saveChannel: Запомнить выбранный канал
+ui.settings.label.muteOnVoip: Использовать настройки VOIP
+ui.settings.label.autoPlay: Авто-воспроизведение при старте
+ui.settings.label.showBattleTips: Отображать подсказки в бою
+ui.settings.label.muteOnMinimize: Приглушать при сворачивании
+ui.settings.tooltip.saveVolume: {HEADER}Запомнить громкость{/HEADER}{BODY}При следующем включении громкость останется на том же уровне{/BODY}
+ui.settings.tooltip.saveChannel: {HEADER}Запомнить выбранный канал{/HEADER}{BODY}При следующем включении звучать будет последний выбранный вами канал{/BODY}
+ui.settings.tooltip.muteOnVoip: {HEADER}Использовать настройки VOIP{/HEADER}{BODY}При использовании внутриигровой связи радио будет приглушаться. Уровень приглушения зависит от настройки "Общий уровень громкости окружения во время разговора" в игровом клиенте{/BODY}
+ui.settings.tooltip.autoPlay: {HEADER}Авто-воспроизведение при старте{/HEADER}{BODY}При запуске клиента радио будет автоматически включаться{/BODY}
+ui.settings.tooltip.showBattleTips: {HEADER}Отображать подсказки в бою{/HEADER}{BODY}Показывать клавиши управления в начале боя{/BODY}
+ui.settings.tooltip.muteOnMinimize: {HEADER}Приглушать при сворачивании{/HEADER}{BODY}Приглушать радио при сворачивании клиента игры{/BODY}
+ui.hotkeys.title: Горячие клавиши
+ui.hotkeys.defaultLink: Стандартные настройки
+ui.hotkeys.cmdDefault: По умолчанию
+ui.hotkeys.cmdClean: Очистить
+ui.hotkeys.toggleRadio: Вкл\выкл радио
+ui.hotkeys.volumeUp: Увеличить громкость
+ui.hotkeys.volumeDown: Уменьшить громкость
+ui.hotkeys.nextChannel: Следующий канал
+ui.hotkeys.previosChannel: Предыдущий канал
