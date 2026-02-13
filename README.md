@@ -1,4 +1,4 @@
-﻿**NetRadioWOT Radio** This is a modification for the game "World Of Tanks" which allows you to listen NetRadioWOT radio directly ingame
+﻿**NetRadioWOT Radio** This is a modification for the game "Mir Tankov" which allows you to listen NetRadioWOT radio directly ingame
 
  **Author: poliroid**
 
