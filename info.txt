@@ -1,0 +1,1 @@
+Command to create mod: python build.py lesta

@@ -274,8 +274,9 @@ if CREATE_DISTRIBUTE:
 	shutil.copy2('{}/{}'.format(BUILD_DIR, PACKAGE_NAME), 'temp/distribute/mods/{}'.format(GAME_VERSION))
 	if os.path.isdir('resources/out'):
 		copytree('resources/out', 'temp/distribute')
-	zipFolder('temp/distribute', '{}/{name}_{version}_{region}.zip'.format(BUILD_DIR, name=CONFIG.info.id,
-				version=CONFIG.info.version, region=REGION))
+	zipFolder('temp/distribute', '{}/{name}_{version}.zip'.format(BUILD_DIR, name=CONFIG.info.id, version=CONFIG.info.version)) 
+ 	##zipFolder('temp/distribute', '{}/{name}_{version}_{region}.zip'.format(BUILD_DIR, name=CONFIG.info.id,
+	##			version=CONFIG.info.version, region=REGION))
 
 # list for cleaning
 cleanup_list = set([])
