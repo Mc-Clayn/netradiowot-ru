@@ -15,9 +15,9 @@ DEFAULT_CONFIG = {
 	"version": 1,
 	"channels": [
 		{
-			"displayName": "netradio.by/wot",
-			"stream_url": "http://sv.netradio.by:8061/128",
-			"ext_url": "https://netradio.by/wot",
+			"displayName": "RadioMT", # netradio.by/wot
+			"stream_url": "https://listen8.myradio24.com/2187", # http://sv.netradio.by:8061/128
+			"ext_url": "https://listen8.myradio24.com/2187", # https://netradio.by/wot
 			"tags_url": "http://sv.netradio.by:81/broad.xml"
 		}
 	]
