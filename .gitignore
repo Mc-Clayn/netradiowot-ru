@@ -6,7 +6,7 @@
 /as3*/*/*.swf
 
 # AS3 libs
-/as3*/*/*.swc
+#/as3*/*/*.swc
 
 # compiled python bytecode
 /python/*/*.pyc
