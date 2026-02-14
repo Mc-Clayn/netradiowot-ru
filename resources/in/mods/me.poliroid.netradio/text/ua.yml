@@ -2,18 +2,18 @@ battle.player.volumeup: Гучність збільшено
 battle.player.volumedown: Гучність зменшено
 battle.player.stop: Радіо-плеєр зупинено
 battle.player.loading: Завантаження...
-battle.tips.control1: Увімкнути NETradio — [{toggleRadio}]
-battle.tips.control2: Перемикайте канали NETradio у бою клавішами [{nextChannel}] та [{previosChannel}]
+battle.tips.control1: Увімкнути MTRadio — [{toggleRadio}]
+battle.tips.control2: Перемикайте канали MTRadio у бою клавішами [{nextChannel}] та [{previosChannel}]
 battle.tips.control3: Налаштовуйте зручну для вас гучність у бою клавішами [{volumeDown}] та [{volumeUp}]
 error.workingDir: Помилка. Файли мода не знайдено!
 error.localRadioUrl: Помилка. Щось блокує файлу net_radio_player.exe доступ до мережі Інтернет.
 error.cache: Помилка. Не вдалося отримати посилання на трансляцію!
-error.netRadioUrl: Помилка. Радіо NETradio недоступне!
-error.streamTags: Помилка. Немає з’єднання з NETradio. Трансляцію буде відновлено найближчим часом!
-modslist.name: NETradio
-modslist.description: Слухайте радіо NETradio прямо в клієнті гри
+error.MTRadioUrl: Помилка. Радіо MTRadio недоступне!
+error.streamTags: Помилка. Немає з’єднання з MTRadio. Трансляцію буде відновлено найближчим часом!
+modslist.name: MTRadio
+modslist.description: Слухайте радіо MTRadio прямо в клієнті гри
 ui.waiting.grabbingData: Отримання даних
-ui.title: NETradio
+ui.title: MTRadio
 ui.closeButton: ЗАКРИТИ
 ui.settings.title: Інші налаштування
 ui.settings.label.saveVolume: Запам’ятати гучність

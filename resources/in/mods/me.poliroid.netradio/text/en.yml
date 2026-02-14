@@ -2,18 +2,18 @@ battle.player.volumeup: Volume up
 battle.player.volumedown: Volume down
 battle.player.stop: Radio player stopped
 battle.player.loading: Loading...
-battle.tips.control1: Enable NETradio — [{toggleRadio}]
-battle.tips.control2: Switch NETradio channels in battle using [{nextChannel}] and [{previosChannel}] keys
+battle.tips.control1: Enable MTRadio — [{toggleRadio}]
+battle.tips.control2: Switch MTRadio channels in battle using [{nextChannel}] and [{previosChannel}] keys
 battle.tips.control3: Adjust the volume in battle to suit you with the keys [{volumeDown}] and [{volumeUp}]
 error.workingDir: Error. Mod files not found!
 error.localRadioUrl: Error. Something is blocking the net_radio_player.exe file from accessing the Internet.
 error.cache: Error. Failed to get the broadcast link!
-error.netRadioUrl: Error. NETradio radio is unavailable!
-error.streamTags: Error. No connection to NETradio. Broadcasting will be restored soon!
-modslist.name: NETradio
-modslist.description: Listen to the radio NETradio directly in the game client
+error.MTRadioUrl: Error. MTRadio radio is unavailable!
+error.streamTags: Error. No connection to MTRadio. Broadcasting will be restored soon!
+modslist.name: MTRadio
+modslist.description: Listen to the radio MTRadio directly in the game client
 ui.waiting.grabbingData: Grabbing data
-ui.title: NETradio
+ui.title: MTRadio
 ui.closeButton: CLOSE
 ui.settings.title: Other settings
 ui.settings.label.saveVolume: Save volume
