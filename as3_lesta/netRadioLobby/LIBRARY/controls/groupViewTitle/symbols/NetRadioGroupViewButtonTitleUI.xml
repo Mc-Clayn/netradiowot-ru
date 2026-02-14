@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>titleTF</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="16.95" size="14" bitmapSize="280" face="$FieldFont*" fillColor="#959586"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="17.75" size="14" bitmapSize="280" face="$FieldFont*" fillColor="#959586"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

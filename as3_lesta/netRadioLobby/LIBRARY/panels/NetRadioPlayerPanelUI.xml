@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="panels/NetRadioPlayerPanelUI" itemID="58bb4ad2-00000585" linkageExportForAS="true" linkageBaseClass="poliroid.gui.lobby.net_radio.components.PlayerPanel" linkageClassName="NetRadioPlayerPanelUI" lastModified="1653720999" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="panels/NetRadioPlayerPanelUI" itemID="58bb4ad2-00000585" linkageExportForAS="true" linkageBaseClass="poliroid.gui.lobby.net_radio.components.PlayerPanel" linkageClassName="NetRadioPlayerPanelUI" lastModified="1771060780" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="NetRadioPlayerPanelUI" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-296&lt;/guideline&gt;&lt;guideline direction="h"&gt;-301&lt;/guideline&gt;&lt;guideline direction="v"&gt;300&lt;/guideline&gt;&lt;guideline direction="v"&gt;0&lt;/guideline&gt;&lt;guideline direction="h"&gt;0&lt;/guideline&gt;&lt;/guidelines&gt;'>
       <layers>
@@ -73,17 +73,17 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="titleTF" color="#FF800A" autoNamed="false">
+        <DOMLayer name="titleTF" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="titleTF" width="196" height="45" isSelectable="false">
+                <DOMDynamicText name="titleTF" selected="true" width="196" height="45" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="2"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>NETradioWOT</characters>
+                      <characters>MTRadio</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="32.6" size="26" bitmapSize="520" face="$TitleFont*" fillColor="#EDEDD5"/>
                       </textAttrs>
@@ -94,11 +94,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="controlsPanelMain" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="controlsPanelMain" color="#4F80FF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="panels/NetRadioControlsPanelMainUI" name="controlsPanelMain" selected="true">
+                <DOMSymbolInstance libraryItemName="panels/NetRadioControlsPanelMainUI" name="controlsPanelMain">
                   <matrix>
                     <Matrix tx="-1" ty="60"/>
                   </matrix>

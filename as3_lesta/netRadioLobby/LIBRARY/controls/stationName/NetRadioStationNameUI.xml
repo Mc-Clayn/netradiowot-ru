@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="controls/stationName/symbols/mask" name="clickMask" selected="true">
+                <DOMSymbolInstance libraryItemName="controls/stationName/symbols/mask" name="clickMask">
                   <matrix>
                     <Matrix a="42.0000457763672" d="5.39999389648438"/>
                   </matrix>

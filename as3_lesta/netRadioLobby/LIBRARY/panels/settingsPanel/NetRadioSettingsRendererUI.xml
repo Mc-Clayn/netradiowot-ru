@@ -17,18 +17,18 @@
           </frames>
         </DOMLayer>
         <DOMLayer name="muteOnVoip" color="#669900" autoNamed="false">
-        	<frames>
-        		<DOMFrame index="0" keyMode="9728">
-        			<elements/>
-        		</DOMFrame>
-        	</frames>
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
         </DOMLayer>
         <DOMLayer name="autoPlay" color="#808080" autoNamed="false">
-        	<frames>
-        		<DOMFrame index="0" keyMode="9728">
-        			<elements/>
-        		</DOMFrame>
-        	</frames>
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
         </DOMLayer>
         <DOMLayer name="mask" color="#FF4FFF" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
           <frames>

@@ -83,7 +83,7 @@
           <frames>
             <DOMFrame index="0" duration="50" keyMode="9728">
               <elements>
-                <DOMDynamicText name="labelTF" width="156" height="16.95" isSelectable="false">
+                <DOMDynamicText name="labelTF" width="156" height="17.75" isSelectable="false">
                   <matrix>
                     <Matrix tx="4" ty="4"/>
                   </matrix>
@@ -91,7 +91,7 @@
                     <DOMTextRun>
                       <characters>hotkeyNameTF</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" lineHeight="16.95" size="14" bitmapSize="280" face="$FieldFont*" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" lineHeight="17.75" size="14" bitmapSize="280" face="$FieldFont*" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -104,7 +104,7 @@
           <frames>
             <DOMFrame index="0" duration="50" keyMode="9728">
               <elements>
-                <DOMDynamicText name="valueTF" width="50.45" height="16.95" isSelectable="false">
+                <DOMDynamicText name="valueTF" width="50.45" height="17.75" isSelectable="false">
                   <matrix>
                     <Matrix tx="217" ty="4"/>
                   </matrix>
@@ -112,7 +112,7 @@
                     <DOMTextRun>
                       <characters>F1</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="16.95" size="14" bitmapSize="280" face="$FieldFont*" fillColor="#666666"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.75" size="14" bitmapSize="280" face="$FieldFont*" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
