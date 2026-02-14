@@ -98,7 +98,7 @@ class BattleController(object):
 	def __showInfoMessage(self, text, useChannel=False, important=False):
 		LOG_DEBUG('showInfoMessage', self.__isPlayerInBattle, text, useChannel, important)
 		color = DEFAULT_BATTLE_MESSAGE_COLOR
-		message = '[NetRadio] %s' % text
+		message = '[MTRadio] %s' % text # [NetRadio]
 		if important:
 			lifeTime = DEFAULT_BATTLE_MESSAGE_LIFETIME + 2000
 		else:

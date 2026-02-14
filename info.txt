@@ -1,4 +1,2 @@
 Command to create mod: python build.py lesta
 
-
-Remake building flash components from python - as3 swf, now we copy also builded files.

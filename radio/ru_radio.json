@@ -7,6 +7,11 @@
             "ext_url": "https://netradio.by/wot"
         },
         {
+            "displayName": "MTRadio",
+            "stream_url": "https://listen8.myradio24.com/2187",
+            "ext_url": "https://listen8.myradio24.com/2187"
+        },
+        {
             "displayName": "Радио Мелодия (СПБ)",
             "stream_url": "http://stream128.melodiafm.spb.ru:8000/melodia128",
             "ext_url": "http://stream128.melodiafm.spb.ru:8000/melodia128"

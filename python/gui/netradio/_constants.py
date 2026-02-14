@@ -46,17 +46,17 @@ DEFAULT_SETTINGS = {
 DEFAULT_CACHE = {}
 
 CLIENT_ROOT_PATH = '.' if os.path.isfile('./paths.xml') else '..'
-CONFIGS_PATH = '{}/mods/configs/NetRadio/'.format(CLIENT_ROOT_PATH)
+CONFIGS_PATH = '{}/mods/configs/MTRadio/'.format(CLIENT_ROOT_PATH) # NetRadio
 
 def _load_config_url():
 	try:
-		with open(CONFIGS_PATH + 'NetRadio.json', 'r') as f:
+		with open(CONFIGS_PATH + 'MTRadio.json', 'r') as f: # NetRadio.json
 			config = json.load(f)
 			config_url = config['config_url']
-			print("[NetRadio] Config founded, URL: {}".format(config_url))
+			print("[MTRadio] Config founded, URL: {}".format(config_url)) # [NetRadio]
 			return config_url
 	except:
-		print("[NetRadio] Config not founded. Path: {}".format(CONFIGS_PATH + 'NetRadio.json'))
+		print("[MTRadio] Config not founded. Path: {}".format(CONFIGS_PATH + 'MTRadio.json')) # [NetRadio]  NetRadio.json
 		return None
 
 class CONFIG:

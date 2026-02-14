@@ -76,7 +76,7 @@ class DataHolder(object):
 	def reloadConfig(self, callback):
 		"""Reload the CONFIG_URL and refresh the configuration data."""
 		from ._constants import CONFIG, _load_config_url
-		# Reload the CONFIG_URL from the NetRadio.json file
+		# Reload the CONFIG_URL from the MTRadio[NetRadio].json file 
 		CONFIG.CONFIG_URL = _load_config_url()
 		# Fetch the new configuration data
 		parsedFromNet = yield self.__parseConfig()
