@@ -214,8 +214,8 @@ if COPY_INTO_GAME:
 
 # package data
 PACKAGE_EXT = 'wotmod' if BUILD_WG else 'mtmod'
-PACKAGE_NAME = '{author}.{name}_{version}_{region}.{ext}'.format(author=CONFIG.info.author,
-				name=CONFIG.info.id, version=CONFIG.info.version, region=REGION, ext=PACKAGE_EXT)
+PACKAGE_NAME = '{author}.{name}_{version}.{ext}'.format(author=CONFIG.info.author,
+				name=CONFIG.info.id, version=CONFIG.info.version, region=REGION, ext=PACKAGE_EXT) # {author}.{name}_{version}_{region}.{ext}
 
 # generate package meta file
 META = """<root>

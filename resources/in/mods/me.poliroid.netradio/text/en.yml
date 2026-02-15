@@ -3,8 +3,7 @@ battle.player.volumedown: Volume down
 battle.player.stop: Radio player stopped
 battle.player.loading: Loading...
 battle.tips.control1: Enable MTRadio — [{toggleRadio}]
-battle.tips.control2: Switch MTRadio channels in battle using [{nextChannel}] and [{previosChannel}] keys
-battle.tips.control3: Adjust the volume in battle to suit you with the keys [{volumeDown}] and [{volumeUp}]
+battle.tips.control2: Adjust the volume in battle to suit you with the keys [{volumeDown}] and [{volumeUp}]
 error.workingDir: Error. Mod files not found!
 error.localRadioUrl: Error. Something is blocking the net_radio_player.exe file from accessing the Internet.
 error.cache: Error. Failed to get the broadcast link!

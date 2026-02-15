@@ -3,10 +3,9 @@ battle.player.volumedown: Громкость уменьшена
 battle.player.stop: Радио-плеер остановлен
 battle.player.loading: Загрузка...
 battle.tips.control1: Включить MTRadio - [{toggleRadio}]
-battle.tips.control2: Переключайте каналы MTRadio в бою клавишами [{nextChannel}] и [{previosChannel}]
-battle.tips.control3: Настраивайте удобную для вас громкость в бою клавишами [{volumeDown}] и [{volumeUp}]
+battle.tips.control2: Настраивайте удобную для вас громкость в бою клавишами [{volumeDown}] и [{volumeUp}]
 error.workingDir: Ошибка. Файлы мода не найдены!
-error.localRadioUrl: Ошибка. Чтото блокирует файлу net_radio_player.exe доступ к сети интернет.
+error.localRadioUrl: Ошибка. Что-то блокирует файлу net_radio_player.exe доступ к сети интернет.
 error.cache: Ошибка. Не удалось получить ссылку на вещание!
 error.netRadioUrl: Ошибка. Радио MTRadio недоступно!
 error.streamTags: Ошибка. Нет соединения с MTRadio. Вещание будет восстановлено в ближайшее время!
