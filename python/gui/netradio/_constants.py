@@ -15,10 +15,10 @@ DEFAULT_CONFIG = {
 	"version": 1,
 	"channels": [
 		{
-			"displayName": "MTRadio", # netradio.by/wot
+			"displayName": "MTRadio", # netradio.by/wot 
 			"stream_url": "https://listen8.myradio24.com/2187", # http://sv.netradio.by:8061/128
-			"ext_url": "https://listen8.myradio24.com/2187", # https://netradio.by/wot
-			"tags_url": "http://dilyaso1.beget.tech/mtradio/" # http://sv.netradio.by:81/broad.xml
+			"ext_url": "https://mtradio.by/", # https://netradio.by/wot
+			"tags_url": "https://mtradio.by/mtradio/" # http://sv.netradio.by:81/broad.xml
 		}
 	]
 }
