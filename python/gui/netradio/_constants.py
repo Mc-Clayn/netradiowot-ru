@@ -15,10 +15,10 @@ DEFAULT_CONFIG = {
 	"version": 1,
 	"channels": [
 		{
-			"displayName": "MTRadio", # netradio.by/wot 
-			"stream_url": "https://listen8.myradio24.com/2187", # http://sv.netradio.by:8061/128
-			"ext_url": "https://listen8.myradio24.com/2187", # https://netradio.by/wot
-			"tags_url": "http://dilyaso1.beget.tech/mtradio/" # http://sv.netradio.by:81/broad.xml
+			"displayName": "MTRadio", # MTRadio
+			"stream_url": "http://live.mtradio.by:9000/2187", # https://listen8.myradio24.com/2187
+			"ext_url": "http://live.mtradio.by:9000/2187", # https://listen8.myradio24.com/2187
+			"tags_url": "https://mtradio.by/mtradio/" # http://sv.netradio.by:81/broad.xml
 		}
 	]
 }
@@ -106,7 +106,7 @@ BATTLE_COMPONENT_UI = 'NetRadioBattle'
 
 LANGUAGE_FILES = 'mods/me.poliroid.netradio/text'
 LANGUAGE_DEFAULT = 'en'
-LANGUAGE_FALLBACK = ('en', 'ru', 'ua', )
+LANGUAGE_FALLBACK = ('en', 'ru', 'by', 'ua', )
 
 SETTINGS_FILE = os.path.normpath(os.path.join(CONFIGS_PATH, 'setting.dat'))
 CACHE_FILE = os.path.normpath(os.path.join(CONFIGS_PATH, 'cache.dat'))

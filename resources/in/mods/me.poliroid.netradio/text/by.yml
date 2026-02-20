@@ -1,0 +1,39 @@
+battle.player.volumeup: Гучнасць павялічана
+battle.player.volumedown: Гучнасць зменшана
+battle.player.stop: Радыё-плэер спынены
+battle.player.loading: Загрузка...
+battle.tips.control1: Уключыць MTRadio - [{toggleRadio}]
+battle.tips.control2: Пераключэнне паміж каналамі [{nextChannel}] - [{previosChannel}]
+battle.tips.control3: Настройвайце зручную для вас гучнасць у баі клавішамі [{volumeDown}] і [{volumeUp}]
+error.workingDir: Памылка. Файлы мода не знойдзены!
+error.localRadioUrl: Памылка. Нешта блакуе файлу net_radio_player.exe доступ да сеткі інтэрнэт.
+error.cache: Памылка. Не ўдалося атрымаць спасылку на вяшчанне!
+error.netRadioUrl: Ошибка. Радио MTRadio недоступно!
+error.streamTags: Памылка. Няма злучэння з MTRadio. Вяшчанне будзе адноўлена ў бліжэйшы час!
+modslist.name: MTRadio
+modslist.description: Слухайце радыё MTRadio прама ў кліенце гульні
+ui.waiting.grabbingData: Атрыманне дадзеных
+ui.title: MTRadio
+ui.closeButton: ЗАКРЫЦЬ
+ui.settings.title: Іншыя наладкі
+ui.settings.label.saveVolume: Запомніць гучнасць
+ui.settings.label.saveChannel: Запомніць абраны канал
+ui.settings.label.muteOnVoip: Выкарыстоўваць налады VOIP
+ui.settings.label.autoPlay: Аўта-прайграванне пры старце
+ui.settings.label.showBattleTips: Адлюстроўваць падказкі ў баі
+ui.settings.label.muteOnMinimize: Прыглушаць пры згортванні
+ui.settings.tooltip.saveVolume: {HEADER}Запомніць гучнасць{/HEADER}{BODY}Пры наступным уключэнні гучнасць застанецца на тым жа ўзроўні{/BODY}
+ui.settings.tooltip.saveChannel: {HEADER}Запомніць абраны канал{/HEADER}{BODY}Пры наступным уключэнні гучаць будзе апошні абраны вамі канал{/BODY}
+ui.settings.tooltip.muteOnVoip: {HEADER}Выкарыстоўваць налады VOIP{/HEADER}{BODY}Пры выкарыстанні нутрагульнявой сувязі радыё будзе прыглушацца. Узровень прыглушэння залежыць ад налады "Агульны ўзровень гучнасці асяроддзя падчас размовы" ў гульнявым кліенце{/BODY}
+ui.settings.tooltip.autoPlay: {HEADER}Аўта-прайграванне пры старце{/HEADER}{BODY}Пры запуску кліента радыё будзе аўтаматычна ўключацца{/BODY}
+ui.settings.tooltip.showBattleTips: {HEADER}Адлюстроўваць падказкі ў баі{/HEADER}{BODY}Паказваць клавішы кіравання ў пачатку бою{/BODY}
+ui.settings.tooltip.muteOnMinimize: {HEADER}Прыглушаць пры згортванні{/HEADER}{BODY}Прыглушаць радыё пры згортванні кліента гульні{/BODY}
+ui.hotkeys.title: Гарачыя клавішы
+ui.hotkeys.defaultLink: Стандартныя наладкі
+ui.hotkeys.cmdDefault: Па змаўчанні
+ui.hotkeys.cmdClean: Ачысціць
+ui.hotkeys.toggleRadio: Укл\выкл радыё
+ui.hotkeys.volumeUp: Павялічыць гучнасць
+ui.hotkeys.volumeDown: Паменшыць гучнасць
+ui.hotkeys.nextChannel: Наступны канал
+ui.hotkeys.previosChannel: Папярэдні канал
